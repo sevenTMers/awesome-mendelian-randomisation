@@ -40,6 +40,8 @@ Mendelian Randomisation operates under 3 assumptions:
 
 (2018) [Reading Mendelian randomisation studies: a guide, glossary, and checklist for clinicians](https://www.bmj.com/content/362/bmj.k601)
 
+(2018) [Evaluating the current state of Mendelian randomization studies: a protocol for a systematic review on methodological and clinical aspects using neurodegenerative disorders as outcome](https://systematicreviewsjournal.biomedcentral.com/track/pdf/10.1186/s13643-018-0809-3.pdf)
+
 (2015) [Mendelian Randomization: New Applications in the Coming Age of Hypothesis-Free Causality](https://www.annualreviews.org/doi/10.1146/annurev-genom-090314-050016)
 
 (2014) [MeRP: a high-throughput pipeline for Mendelian randomization analysis](https://academic.oup.com/bioinformatics/article/31/6/957/215107) 
