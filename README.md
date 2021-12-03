@@ -4,7 +4,7 @@ A curated list of awesome Mendelian Randomisation frameworks, libraries, softwar
 
 What is Mendelian Randomisation? 
 
->  Mendeial Randomisations estimate the causal relationship of a risk factor of interest to disease outcomes using genetic variants as instruments to index the risk factor. [source]((https://www.nature.com/articles/s41467-020-16969-0))
+>  Mendeial Randomisations estimate the causal relationship of a risk factor of interest to disease outcomes using genetic variants as instruments to index the risk factor. [source](https://www.nature.com/articles/s41467-020-16969-0)
 
 # References 
 
