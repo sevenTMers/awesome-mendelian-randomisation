@@ -9,9 +9,9 @@ The use of genetic data to infer causal relationship in disease or:
 >  Mendelian Randomisations estimate the [causal relationship](https://ftp.cs.ucla.edu/pub/stat_ser/r350-reprint.pdf) of a risk factor of interest to disease outcomes using genetic variants as instruments to index the risk factor. [source](https://www.nature.com/articles/s41467-020-16969-0)
 
 Mendelian Randomisation operates under 3 assumptions:
-* There is a gene variant that effects the biomarker of interest
-* The gene variant only changes that biomarker
-* The effect of the variant on the disease is only through the vehicle of that biomarker 
+* There is a gene variant that effects the biomarker of interest (G	is	robustly	associated	with	X)
+* The gene variant only changes that biomarker (No	confounding) 
+* The effect of the variant on the disease is only through the vehicle of that biomarker (No	pleiotropy)
 
 # Resources
 
