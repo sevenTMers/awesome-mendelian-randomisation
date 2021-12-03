@@ -15,7 +15,7 @@ Mendelian Randomisation operates under 3 assumptions:
 
 # Resources
 
-[BenevolentAi Funds Doctorate](https://www.ucl.ac.uk/aihealth-cdt/combining-mendelian-randomisation-and-machine-learning-drug-target-validation-complex-disease) for 'Combining Mendelian randomisation and machine learning for drug target validation in complex disease' and attempted to answer three questions
+* [BenevolentAi Funds Doctorate](https://www.ucl.ac.uk/aihealth-cdt/combining-mendelian-randomisation-and-machine-learning-drug-target-validation-complex-disease) for 'Combining Mendelian randomisation and machine learning for drug target validation in complex disease' and attempted to answer three questions
 1. Can machine learning and advanced data science be used to optimise the construction of genetic instruments for use in MR for drug target validation?
 2. Can machine learning methods optimise the application of MR to drug target validation by detecting and accounting for genetic pleiotropy?
 3. Can a combination of machine learning and MR methods be used to prioritise drug targets and elaborate the molecular and physiological pathways involved in the efficacy and safety of a drug target?
