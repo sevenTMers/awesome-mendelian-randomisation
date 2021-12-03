@@ -21,6 +21,7 @@ Mendelian Randomisation operates under 3 assumptions:
   2. Can machine learning methods optimise the application of MR to drug target validation by detecting and accounting for genetic pleiotropy?
   3. Can a combination of machine learning and MR methods be used to prioritise drug targets and elaborate the molecular and physiological pathways involved in the efficacy and safety of a drug target?
   * These questions will be addressed using large volumes of summary statistics from published genome-wide association studies (GWAS) and individual level data from population studies (e.g. [UK Biobank](https://www.ukbiobank.ac.uk/)).
+  * [Making sense of Mendelian randomisation and its use in health research](https://github.com/sevenTMers/awesome-mendelian-randomisation/blob/main/resources/PHW_Mendelian_Randomisation_User_Guide.pdf)
 
 
 
