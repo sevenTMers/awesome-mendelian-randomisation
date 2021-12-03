@@ -28,6 +28,8 @@ Mendelian Randomisation operates under 3 assumptions:
 
 (2021) [Ten simple rules for conducting a mendelian randomization study](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009238#sec002)
 
+(2021) [The use of negative control outcomes in Mendelian randomization to detect potential population stratification](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8407870/pdf/dyaa288.pdf)
+
 (2020) [Genetic drug target validation using Mendelian randomisation](https://www.nature.com/articles/s41467-020-16969-0)
 
 (2020) [Guidelines for performing Mendelian randomization investigations](https://wellcomeopenresearch.org/articles/4-186)
