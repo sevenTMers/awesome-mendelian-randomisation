@@ -26,6 +26,8 @@ Mendelian Randomisation operates under 3 assumptions:
 
 # References 
 
+(2021) [Ten simple rules for conducting a mendelian randomization study](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009238#sec002)
+
 (2020) [Genetic drug target validation using Mendelian randomisation](https://www.nature.com/articles/s41467-020-16969-0)
 
 (2019) [Learning Causal Biological Networks With the Principle of Mendelian Randomization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6536645/)
