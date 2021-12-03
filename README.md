@@ -43,3 +43,6 @@ Mendelian Randomisation operates under 3 assumptions:
 (2015) [Mendelian Randomization: New Applications in the Coming Age of Hypothesis-Free Causality](https://www.annualreviews.org/doi/10.1146/annurev-genom-090314-050016)
 
 (2014) [MeRP: a high-throughput pipeline for Mendelian randomization analysis](https://academic.oup.com/bioinformatics/article/31/6/957/215107) 
+
+[2008] [Mendelian randomization: Using genes as instruments for making
+causal inferences in epidemiology](http://jenni.uchicago.edu/ERC_2010/Lawlor_Harbord_Sterne_etal_2008_SiM_v27_n8.pdf)
