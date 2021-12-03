@@ -30,4 +30,6 @@ Mendelian Randomisation operates under 3 assumptions:
 
 (2019) [Learning Causal Biological Networks With the Principle of Mendelian Randomization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6536645/)
 
+(2018) [Reading Mendelian randomisation studies: a guide, glossary, and checklist for clinicians](https://www.bmj.com/content/362/bmj.k601)
+
 (2014) [MeRP: a high-throughput pipeline for Mendelian randomization analysis](https://academic.oup.com/bioinformatics/article/31/6/957/215107) 
