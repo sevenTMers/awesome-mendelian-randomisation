@@ -36,6 +36,8 @@ Mendelian Randomisation operates under 3 assumptions:
 
 (2020) [Guidelines for performing Mendelian randomization investigations](https://wellcomeopenresearch.org/articles/4-186)
 
+(2020) [Mendel’s laws, Mendelian randomization and causal inference in observational data: substantive and nomenclatural issues](https://link.springer.com/article/10.1007/s10654-020-00622-7)
+
 (2019) [Learning Causal Biological Networks With the Principle of Mendelian Randomization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6536645/)
 
 (2019) [Conducting a Reproducible Mendelian Randomization Analysis using the R analytic statistical environment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6424604/)
@@ -54,3 +56,5 @@ causal inferences in epidemiology](http://jenni.uchicago.edu/ERC_2010/Lawlor_Har
 (2007) [Capitalizing on Mendelian randomization to assess the effects of treatments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1963388/)
 
 (2004) [Commentary: Mendelian randomization—an update on its use to evaluate allogeneic stem cell transplantation in leukaemia](https://academic.oup.com/ije/article/33/1/15/668135)
+
+(2003) [‘Mendelian randomization’: can genetic epidemiology contribute to understanding environmental determinants of disease?]((https://academic.oup.com/ije/article/32/1/1/642797)
