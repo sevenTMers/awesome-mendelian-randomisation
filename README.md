@@ -38,6 +38,8 @@ Mendelian Randomisation operates under 3 assumptions:
 
 (2020) [Mendel’s laws, Mendelian randomization and causal inference in observational data: substantive and nomenclatural issues](https://link.springer.com/article/10.1007/s10654-020-00622-7)
 
+(2020) [The use of Mendelian randomisation to identify causal cancer risk factors: promise and limitations](https://onlinelibrary.wiley.com/doi/full/10.1002/path.5421)
+
 (2019) [Learning Causal Biological Networks With the Principle of Mendelian Randomization](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6536645/)
 
 (2019) [Conducting a Reproducible Mendelian Randomization Analysis using the R analytic statistical environment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6424604/)
