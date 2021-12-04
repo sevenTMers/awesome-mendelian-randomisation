@@ -28,6 +28,8 @@ Mendelian Randomisation operates under 3 assumptions:
 
 (2021) [Ten simple rules for conducting a mendelian randomization study](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009238#sec002)
 
+(2021) [Genetic determinants of blood-cell traits influence susceptibility to childhood acute lymphoblastic leukemia](
+
 (2021) [The use of negative control outcomes in Mendelian randomization to detect potential population stratification](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8407870/pdf/dyaa288.pdf)
 
 (2020) [Genetic drug target validation using Mendelian randomisation](https://www.nature.com/articles/s41467-020-16969-0)
@@ -46,5 +48,7 @@ Mendelian Randomisation operates under 3 assumptions:
 
 (2014) [MeRP: a high-throughput pipeline for Mendelian randomization analysis](https://academic.oup.com/bioinformatics/article/31/6/957/215107) 
 
-[2008] [Mendelian randomization: Using genes as instruments for making
+(2008) [Mendelian randomization: Using genes as instruments for making
 causal inferences in epidemiology](http://jenni.uchicago.edu/ERC_2010/Lawlor_Harbord_Sterne_etal_2008_SiM_v27_n8.pdf)
+
+(2007) [Capitalizing on Mendelian randomization to assess the effects of treatments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1963388/)
