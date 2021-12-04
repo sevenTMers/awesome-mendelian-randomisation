@@ -28,7 +28,7 @@ Mendelian Randomisation operates under 3 assumptions:
 
 (2021) [Ten simple rules for conducting a mendelian randomization study](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009238#sec002)
 
-(2021) [Genetic determinants of blood-cell traits influence susceptibility to childhood acute lymphoblastic leukemia](
+(2021) [Genetic determinants of blood-cell traits influence susceptibility to childhood acute lymphoblastic leukemia](https://github.com/sevenTMers/awesome-mendelian-randomisation/blob/main/resources/genetic_deterinmaants_of_blood_cell_traits.pdf)
 
 (2021) [The use of negative control outcomes in Mendelian randomization to detect potential population stratification](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8407870/pdf/dyaa288.pdf)
 
