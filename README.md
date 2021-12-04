@@ -52,3 +52,5 @@ Mendelian Randomisation operates under 3 assumptions:
 causal inferences in epidemiology](http://jenni.uchicago.edu/ERC_2010/Lawlor_Harbord_Sterne_etal_2008_SiM_v27_n8.pdf)
 
 (2007) [Capitalizing on Mendelian randomization to assess the effects of treatments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1963388/)
+
+(2004) [Commentary: Mendelian randomization—an update on its use to evaluate allogeneic stem cell transplantation in leukaemia](https://academic.oup.com/ije/article/33/1/15/668135)
