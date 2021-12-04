@@ -57,4 +57,4 @@ causal inferences in epidemiology](http://jenni.uchicago.edu/ERC_2010/Lawlor_Har
 
 (2004) [Commentary: Mendelian randomization—an update on its use to evaluate allogeneic stem cell transplantation in leukaemia](https://academic.oup.com/ije/article/33/1/15/668135)
 
-(2003) [‘Mendelian randomization’: can genetic epidemiology contribute to understanding environmental determinants of disease?]((https://academic.oup.com/ije/article/32/1/1/642797)
+(2003) [‘Mendelian randomization’: can genetic epidemiology contribute to understanding environmental determinants of disease?](https://academic.oup.com/ije/article/32/1/1/642797)
